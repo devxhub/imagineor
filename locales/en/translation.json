@@ -1,0 +1,62 @@
+{
+  "step": {
+    "tickets": "TICKETS",
+    "checkout": "CHECKOUT",
+    "addons": "ADD-ONS"
+  },
+  "title": {
+    "titleOption": "SELECT OPTIONS",
+    "addonOption": "ADD-ONS OPTIONS",
+    "billingInfo": "Deliver tickets to",
+    "order": "Order"
+  },
+  "order": {
+    "items": "Items",
+    "tickets": "Tickets",
+    "item": "Item",
+    "ticket": "Ticket",
+    "subTotal": "Subtotal",
+    "fee": "Service fees",
+    "total": "Total"
+  },
+  "btn": {
+    "checkout": "Next: Checkout",
+    "pay": "Pay",
+    "goHome": "Go Home",
+    "addons": "Next: Add-ons"
+  },
+  "paymentService": "Payment in browser via third-party payment service provider (redirects back)",
+  "download": "Download the CHI App to retrieve your purchased tickets",
+  "thankyou": "Thank for your purchase!",
+  "retrieveTicket": "RETRIEVE TICKETS",
+  "inCHiApp": "in the CHI APP",
+  "important": "IMPORTANT!",
+  "yourEmail": "When installing the app, use your email",
+  "soldOut": "Sold out",
+  "viewTicket": "View tickets in the CHI App",
+  "emailOnboarding": "USE THE SAME EMAIL ADDRESS DURING ONBOARDING",
+  "toast": {
+    "validate": {
+      "require": "Email and phone number are required",
+      "emailRequire": "Email is required",
+      "phoneRequire": "Phone number is required",
+      "inValidEmail": "Email invalid",
+      "inValidPhone": "Phone number invalid",
+      "inValidCountry": "Country code is required",
+
+      "ticket": "Select ticket(s) is required"
+    },
+    "ticketSoldOut": "Tickets are sold out",
+    "somethingWrong": "Something wrong",
+    "emptyTicket": "The event does not have tickets. Please contact the organizer",
+    "eventNotFound": "Event id not found"
+  },
+  "powered": "powered by",
+  "placeholder": {
+    "phoneNumber": "Phone number",
+    "email": "Email"
+  },
+  "ticketSoled": "TICKETSALE IS CLOSED",
+  "comingEvent": "DOWNLOAD THE CHI APP \nFOR UPCOMING EVENTS",
+  "eventEnded": "THIS EVENT HAS ENDED"
+}
