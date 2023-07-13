@@ -1,0 +1,61 @@
+{
+  "step": {
+    "tickets": "BOLETOS",
+    "checkout": "CHECKOUT",
+    "addons": "COMPLEMENTOS"
+  },
+  "title": {
+    "titleOption": "SELECCIONAR BOLETOS",
+    "addonOption": "OPCIONES DE COMPLEMENTOS",
+    "billingInfo": "Entregar los boletos a",
+    "order": "Pedido"
+  },
+  "order": {
+    "items": "Artículos",
+    "tickets": "Boletos",
+    "item": "Articulo",
+    "ticket": "Boleto",
+    "subTotal": "Subtotal",
+    "fee": "Cargo por servicio",
+    "total": "Total"
+  },
+  "btn": {
+    "checkout": "Siguiente: Checkout",
+    "pay": "Pagar",
+    "goHome": "Ir a la página principal",
+    "addons": "Siguiente: Complementos"
+  },
+  "paymentService": "El pago se abre en una nueva ventana",
+  "download": "REUPERAR SUS BOLETAS en la CHI APP",
+  "thankyou": "Gracias por su compra!",
+  "retrieveTicket": "VER BOLETOS",
+  "inCHiApp": "en la CHI APP",
+  "important": "IMPORTANTE!",
+  "yourEmail": "Al instalar, use su correo electrónico",
+  "soldOut": "Agato",
+  "viewTicket": "Ver boletos en la CHI App",
+  "emailOnboarding": "UTILICE EL MISMO CORREO ELECTRÓNICO DURANTE LA INCORPORACIÓN",
+  "toast": {
+    "validate": {
+      "require": "Correo electrónico y número de teléfono necesarios",
+      "emailRequire": "Correo electrónico necesario",
+      "phoneRequire": "Número de teléfono necesario",
+      "inValidEmail": "Correo electrónico no válido",
+      "inValidPhone": "Número de teléfono necesario",
+      "inValidCountry": "Se requiere código de país",
+      "ticket": "Es necesario seleccionar boleto(s)"
+    },
+    "ticketSoldOut": "Boletos están agotadas",
+    "somethingWrong": "Algo salió mal",
+    "emptyTicket": "El evento no tiene boletos. Póngase en contacto con el organizador",
+    "eventNotFound": "Evento no encontrado"
+  },
+  "powered": "impulsados por",
+  "placeholder": {
+    "phoneNumber": "Número de teléfono",
+    "email": "Correo electrónico"
+  },
+  "ticketSoled": "LA VENTA DE BOLETOS ESTÁ CERRADA",
+  "comingEvent": "DESCARGA LA CHI APP \n PARA PRÓXIMOS EVENTOS",
+  "eventEnded": "ESTE EVENTO HA TERMINADO"
+}
